@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**1** solved · 1 problems · 0 labs · 0 math
+**2** solved · 2 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -13,6 +13,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2025-12-22 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
+| [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2025-12-26 | [solution](problems/0009-matrix-times-matrix) |
 
 ---
 
