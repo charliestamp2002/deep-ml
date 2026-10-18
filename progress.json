@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T16:06:04.875Z",
+  "generated_at": "2026-11-07T16:06:06.799Z",
   "items": {
     "problem:47": {
       "kind": "problem",
@@ -91,6 +91,32 @@
       "last_pushed_at": "2026-09-06T17:11:51.720Z",
       "language": "python",
       "lines": 15
+    },
+    "problem:56": {
+      "kind": "problem",
+      "id": "56",
+      "title": "KL Divergence Between Two Normal Distributions",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/56",
+      "path": "problems/0056-kl-divergence-between-two-normal-distributions",
+      "first_solved_at": "2026-10-18T16:07:58.621Z",
+      "last_pushed_at": "2026-10-18T16:07:58.621Z",
+      "language": "python",
+      "lines": 27
+    },
+    "problem:134": {
+      "kind": "problem",
+      "id": "134",
+      "title": "Compute Multi-class Cross-Entropy Loss",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/134",
+      "path": "problems/0134-compute-multi-class-cross-entropy-loss",
+      "first_solved_at": "2026-10-18T16:35:42.597Z",
+      "last_pushed_at": "2026-10-18T16:35:42.597Z",
+      "language": "python",
+      "lines": 28
     }
   }
 }
