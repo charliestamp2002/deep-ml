@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T16:06:08.735Z",
+  "generated_at": "2026-11-07T16:06:10.634Z",
   "items": {
     "problem:47": {
       "kind": "problem",
@@ -169,6 +169,58 @@
       "last_pushed_at": "2026-10-25T19:12:41.188Z",
       "language": "python",
       "lines": 33
+    },
+    "problem:222": {
+      "kind": "problem",
+      "id": "222",
+      "title": "LoRA: Low-Rank Adaptation Forward Pass",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/222",
+      "path": "problems/0222-lora-low-rank-adaptation-forward-pass",
+      "first_solved_at": "2026-11-07T14:37:12.677Z",
+      "last_pushed_at": "2026-11-07T14:37:12.677Z",
+      "language": "python",
+      "lines": 29
+    },
+    "problem:227": {
+      "kind": "problem",
+      "id": "227",
+      "title": "Knowledge Distillation Loss",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/227",
+      "path": "problems/0227-knowledge-distillation-loss",
+      "first_solved_at": "2026-11-07T14:51:03.105Z",
+      "last_pushed_at": "2026-11-07T14:51:03.105Z",
+      "language": "python",
+      "lines": 33
+    },
+    "problem:178": {
+      "kind": "problem",
+      "id": "178",
+      "title": "Implement Position-wise Feed-Forward Block with Residual and Dropout",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/178",
+      "path": "problems/0178-implement-position-wise-feed-forward-block-with-residual-and-dropout",
+      "first_solved_at": "2026-11-07T15:22:08.151Z",
+      "last_pushed_at": "2026-11-07T15:22:08.151Z",
+      "language": "python",
+      "lines": 40
+    },
+    "problem:303": {
+      "kind": "problem",
+      "id": "303",
+      "title": "Forward Diffusion Process",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/303",
+      "path": "problems/0303-forward-diffusion-process",
+      "first_solved_at": "2026-11-07T15:54:11.143Z",
+      "last_pushed_at": "2026-11-07T15:54:11.143Z",
+      "language": "python",
+      "lines": 24
     }
   }
 }
